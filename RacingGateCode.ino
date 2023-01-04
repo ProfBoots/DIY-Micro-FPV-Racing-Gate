@@ -1,3 +1,8 @@
+//Original Creator ProfessorBoots
+
+//Please feel free to download and make revisions as you see necessary or to add more functionality.
+//Thank you!
+
 #include <FastLED.h>
 #include <NewPing.h>
 #include <OneButton.h>
