@@ -4,9 +4,13 @@
 //Thank you!
 
 #include <FastLED.h>
+//FastLED by Daniel Garcia
 #include <NewPing.h>
+//NewPing by Tim Eckel
 #include <OneButton.h>
+//OneButton by Matthias Hertel
 #include <TM1637.h>
+//TM1637(Grove 4 digit display) by Seed Studio
 #include <EEPROM.h>
 
 //Variables
